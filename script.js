@@ -590,7 +590,7 @@ const ringTexts = [
   'Galaxy of love From ...',//untuk deskripsi planet layer 1
   "I love you Sayanggg",//untuk deskripsi planet layer 2
   "♡HAPPY BIRTHDAY♡",//untuk deskripsi planet layer 3
-  "26/10/2025",//untuk deskripsi planet layer 4
+  "28/10/2025",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
